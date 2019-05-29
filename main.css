@@ -14,7 +14,7 @@ html, body {
 
 body {
   
-  background: #7d7e7d; /* Old browsers */
+  background: dodgerblue; /* Old browsers */
   background: -moz-linear-gradient(top, #7d7e7d 0%, #0e0e0e 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #7d7e7d 0%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
@@ -98,8 +98,8 @@ body {
 .image {
   border-radius:50%;
   border:4px solid white;
-  width:140px;
-  height:140px;
+  width:160px;
+  height:160px;
   text-indent:-9999px;
   position:absolute;
   left:144px;
