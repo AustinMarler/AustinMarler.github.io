@@ -15,10 +15,10 @@ html, body {
 body {
   
   background: dodgerblue; /* Old browsers */
-  background: -moz-linear-gradient(top, dodgerblue 0%, #0e0e0e 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, dodgerblue 0%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, dodgerblue 0%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='dodgerblue', endColorstr='#0e0e0e',GradientType=0 ); /* IE6-9 */
+  background: -moz-linear-gradient(top, dodgerblue 0%, #7d7e7d 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, dodgerblue 0%,#7d7e7d 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, dodgerblue 0%,#7d7e7d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='dodgerblue', endColorstr='#7d7e7d',GradientType=0 ); /* IE6-9 */
   
   /*background: #7eff83;
   background: -moz-linear-gradient(top, #7eff83 0%, #77ef7d 44%, #66cc71 100%);
